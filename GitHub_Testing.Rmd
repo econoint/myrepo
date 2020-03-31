@@ -1,0 +1,16 @@
+---
+title: "GitHub Testing"
+author: "Gregory R. Miller, CFA"
+date: "3/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document, that we're using to test GitHub integration and math again
+
+$$e^{i\pi}-1=0$$
